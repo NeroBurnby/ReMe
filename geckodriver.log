@@ -1,0 +1,982 @@
+1596012778116	geckodriver	INFO	Listening on 127.0.0.1:57058
+1596012781229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileBpWDeM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596012800720	Marionette	INFO	Listening on port 57067
+1596012801351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596012847202	Marionette	INFO	Stopped listening on port 57067
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596014987526	geckodriver	INFO	Listening on 127.0.0.1:57857
+1596014990787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileqJVK9A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596015004490	Marionette	INFO	Listening on port 57865
+1596015007353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596015043600	Marionette	INFO	Stopped listening on port 57865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596016993018	geckodriver	INFO	Listening on 127.0.0.1:58400
+1596016996101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileQWHET9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017000135	Marionette	INFO	Listening on port 58409
+1596017001255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596017089133	Marionette	INFO	Stopped listening on port 58409
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596017092172	geckodriver	INFO	Listening on 127.0.0.1:58605
+1596017095201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilem67X7W"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017099409	Marionette	INFO	Listening on port 58614
+1596017099428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596017147508	geckodriver	INFO	Listening on 127.0.0.1:58844
+1596017150540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilefVmnZ9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017154568	Marionette	INFO	Listening on port 58853
+1596017154692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1596017338536	geckodriver	INFO	Listening on 127.0.0.1:59159
+1596017341583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileNNGfnx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017346039	Marionette	INFO	Listening on port 59169
+1596017346315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+1596017351722	Marionette	INFO	Stopped listening on port 59169
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596017402867	geckodriver	INFO	Listening on 127.0.0.1:59283
+1596017405884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofile0InddZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017410520	Marionette	INFO	Listening on port 59293
+1596017410618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596017449491	geckodriver	INFO	Listening on 127.0.0.1:59453
+1596017452521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileM8wjeE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017456629	Marionette	INFO	Listening on port 59462
+1596017456658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 558"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:558:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 558, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 558: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1596017889086	Marionette	INFO	Stopped listening on port 59462
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileva2wwW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017553581	Marionette	INFO	Listening on port 59752
+1596017553621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1596017890078	Marionette	INFO	Stopped listening on port 59752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596017892752	geckodriver	INFO	Listening on 127.0.0.1:60236
+1596017895794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileyJdRBF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596017899864	Marionette	INFO	Listening on port 60246
+1596017899938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1596018587459	Marionette	INFO	Stopped listening on port 60246
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette	INFO	Listening on port 60864
+1596018582157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596074574500	geckodriver	INFO	Listening on 127.0.0.1:62952
+1596074577521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilejwRaZD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596074606454	Marionette	INFO	Listening on port 62961
+1596074607020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596074685727	Marionette	INFO	Stopped listening on port 62961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596074688564	geckodriver	INFO	Listening on 127.0.0.1:63192
+1596074691647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofile8hcH4D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596074700873	Marionette	INFO	Listening on port 63200
+1596074701060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596075413768	Marionette	INFO	Stopped listening on port 63200
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596256988668	geckodriver	INFO	Listening on 127.0.0.1:54176
+1596256991794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofiledZJBqg"
+1596257017137	geckodriver	INFO	Listening on 127.0.0.1:54250
+1596257020531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilek3ifrP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1596257034479	Marionette	INFO	Listening on port 54264
+1596257034934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596257125544	Marionette	INFO	Stopped listening on port 54264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileFaNUcI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596257119875	Marionette	INFO	Listening on port 54494
+1596257120328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596257169046	Marionette	INFO	Stopped listening on port 54494
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596257301973	geckodriver	INFO	Listening on 127.0.0.1:54883
+1596257305081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileMBOJYy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596257310170	Marionette	INFO	Listening on port 54892
+1596257310308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596257389223	Marionette	INFO	Stopped listening on port 54892
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596257513660	geckodriver	INFO	Listening on 127.0.0.1:55275
+1596257516686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileNshX83"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596257521390	Marionette	INFO	Listening on port 55285
+1596257521439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+[Parent 13904, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596257557519	Marionette	INFO	Stopped listening on port 55285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596257589899	geckodriver	INFO	Listening on 127.0.0.1:55549
+1596257592928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilepqfqRH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596257597937	Marionette	INFO	Listening on port 55561
+1596257598161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596257647258	geckodriver	INFO	Listening on 127.0.0.1:55809
+1596257650275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileumjKE4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1596257655734	Marionette	INFO	Listening on port 55818
+1596257656207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1596257762119	Marionette	INFO	Stopped listening on port 55818
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596257944043	geckodriver	INFO	Listening on 127.0.0.1:56291
+1596257947054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofile5SKAYf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596257951986	Marionette	INFO	Listening on port 56301
+1596257952279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596258001901	Marionette	INFO	Stopped listening on port 56301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileIrDh0M"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596257995362	Marionette	INFO	Listening on port 56463
+1596257995482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1596258069256	mozrunner::runner	INFO	Runn[Parent 10724, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596258070416	Marionette	INFO	Stopped listening on JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596258073313	Marionette	INFO	Listening on port 56754
+1596258073409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596258121274	Marionette	INFO	Stopped listening on port 56754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596258342625	geckodriver	INFO	Listening on 127.0.0.1:57175
+1596258345664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileqGZaRe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596258349750	Marionette	INFO	Listening on port 57183
+1596258349882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596258401173	geckodriver	INFO	Listening on 127.0.0.1:57375
+1596258404227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilePyYnIL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596258408709	Marionette	INFO	Listening on port 57383
+1596258409065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596258838964	geckodriver	INFO	Listening on 127.0.0.1:57757
+1596258842003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileKwj3dZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596258848741	Marionette	INFO	Listening on port 57765
+1596258848883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596259055902	geckodriver	INFO	Listening on 127.0.0.1:58064
+1596259058923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilesm7dJj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259065232	Marionette	INFO	Listening on port 58072
+1596259065326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596259190712	geckodriver	INFO	Listening on 127.0.0.1:58321
+1596259193719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileGx4nMd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259198401	Marionette	INFO	Listening on port 58329
+1596259198505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596259749494	Marionette	INFO	Stopped listening on port 58329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+an't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259381578	Marionette	INFO	Listening on port 58599
+1596259381947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596259738786	Marionette	INFO	Stopped listening on port 58599
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileLe7YQ0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259549861	Marionette	INFO	Listening on port 58829
+1596259550224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596259736167	Marionette	INFO	Stopped listening on port 58829
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileHRYQCX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596259704778	Marionette	INFO	Listening on port 59095
+1596259705116	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 1: Script terminated by timeout at:
+fp.Zr@https://www.photopea.com/code/pp.js:1:82
+
+1596259735406	Marionette	INFO	Stopped listening on port 59095
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596259790495	geckodriver	INFO	Listening on 127.0.0.1:59246
+1596259793539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilerq7jIp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259800125	Marionette	INFO	Listening on port 59254
+1596259800465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596259853091	Marionette	INFO	Stopped listening on port 59254
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596259855971	geckodriver	INFO	Listening on 127.0.0.1:59363
+1596259859009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileDh9RGS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259863009	Marionette	INFO	Listening on port 59371
+1596259863236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1596259908149	Marionette	INFO	Stopped listening on port 59371
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596259937382	geckodriver	INFO	Listening on 127.0.0.1:59462
+1596259940420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileCzxbAj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259944384	Marionette	INFO	Listening on port 59470
+1596259944620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596259986247	Marionette	INFO	Stopped listening on port 59470
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofile4aOe6V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596259985824	Marionette	INFO	Listening on port 59674
+1596259986133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596260037011	Marionette	INFO	Stopped listening on port 59674
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileJAIMAO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260035025	Marionette	INFO	Listening on port 59875
+1596260035081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+[Parent 15384, Gecko_IOThread] WARNING: file /builds/worker/1596260128804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileY56JNK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260132446	Marionette	INFO	Listening on port 60101
+1596260132489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596260214196	Marionette	INFO	Stopped listening on port 60101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596260219935	geckodriver	INFO	Listening on 127.0.0.1:60247
+1596260222957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileBYrYBn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260226766	Marionette	INFO	Listening on port 60255
+1596260227123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596260335509	geckodriver	INFO	Listening on 127.0.0.1:60490
+1596260338578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilexAU7r7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260342971	Marionette	INFO	Listening on port 60499
+1596260344507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596260433031	geckodriver	INFO	Listening on 127.0.0.1:60657
+1596260436039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileisXHUU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260442609	Marionette	INFO	Listening on port 60665
+1596260442930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596260507286	Marionette	INFO	Stopped listening on port 60665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilexGgEJn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260480142	Marionette	INFO	Listening on port 60876
+1596260480237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1596260509945	Marionette	INFO	Stopped listening on port 60876
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596260539252	geckodriver	INFO	Listening on 127.0.0.1:61000
+1596260542305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileATxTya"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596260546241	Marionette	INFO	Listening on port 61008
+1596260546495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596261540315	Marionette	INFO	Stopped listening on port 61008
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilech505I"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596261380446	Marionette	INFO	Listening on port 61588
+1596261380569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1596263991913	Marionette	INFO	Stopped listening on port 61588
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Error("", "(unknown module)"))
+1596261664970	Marionette	INFO	Listening on port 61887
+1596261665127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\kaizo\AppData\Local\Temp\rust_mozprofile257aEH\protections.sqlite
+1596263990454	Marionette	INFO	Stopped listening on port 61887
+"(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596261779861	Marionette	INFO	Listening on port 62139
+1596261780031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596263993957	Marionette	INFO	Stopped listening on port 62139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile0AkGRQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596261910826	Marionette	INFO	Listening on port 62395
+1596261911239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+[Parent 6372, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596263994640	Marionette	INFO	Stopped listening on port 62395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dule)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596262030792	Marionette	INFO	Listening on port 62682
+1596262033671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596263995396	Marionette	INFO	Stopped listening on port 62682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596264026872	geckodriver	INFO	Listening on 127.0.0.1:63681
+1596264030034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileB0iQ5Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596264039864	Marionette	INFO	Listening on port 63690
+1596264040042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21112, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596264406511	Marionette	INFO	Stopped listening on port 63690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+or: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596264139730	Marionette	INFO	Listening on port 63916
+1596264140184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596264408611	Marionette	INFO	Stopped listening on port 63916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofiletcS3lU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596264256990	Marionette	INFO	Listening on port 64167
+1596264257335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596264408904	Marionette	INFO	Stopped listening on port 64167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596264420234	geckodriver	INFO	Listening on 127.0.0.1:64491
+1596264423302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilevdp1k6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596264431900	Marionette	INFO	Listening on port 64504
+1596264432284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596264490514	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596264522444	Marionette	INFO	Stopped listening on port 64504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596264528521	geckodriver	INFO	Listening on 127.0.0.1:64723
+1596264531646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilevS11A9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596264536232	Marionette	INFO	Listening on port 64731
+1596264536436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596264592944	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596264636977	Marionette	INFO	Stopped listening on port 64731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596264643652	geckodriver	INFO	Listening on 127.0.0.1:64892
+1596264646676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileq4I68x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596264651233	Marionette	INFO	Listening on port 64900
+1596264651434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596264708970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596264757641	Marionette	INFO	Stopped listening on port 64900
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596445689793	geckodriver	INFO	Listening on 127.0.0.1:51468
+1596445693830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilewuWVtT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+[Parent 15808, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: uncaught exception: 2147500036
+[Parent 15808, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1596445765270	Marionette	INFO	Listening on port 51477
+1596445771509	Marionette	INFO	Stopped listening on port 51477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596445816377	geckodriver	INFO	Listening on 127.0.0.1:51841
+1596445819921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilesu7VNK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[Parent 24496, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596445836577	Marionette	INFO	Listening on port 51849
+1596445837033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+[Parent 24496, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 24496, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 24496, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Parent 24496, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 24496, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1596446857591	Marionette	INFO	Stopped listening on port 51849
+rker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1596445918863	Marionette	INFO	Listening on port 52076
+1596445919157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1596446857083	Marionette	INFO	Stopped listening on port 52076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+[Parent 14952, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596446852198	Marionette	INFO	Stopped listening on port 52353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5303: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+rtificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1596446167116	Marionette	INFO	Stopped listening on port 52652
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596446231674	geckodriver	INFO	Listening on 127.0.0.1:52884
+1596446234733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileF8yvau"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596446248567	Marionette	INFO	Listening on port 52892
+1596446248673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596446321923	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596446332919	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596446852627	Marionette	INFO	Stopped listening on port 52892
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596447042321	geckodriver	INFO	Listening on 127.0.0.1:53893
+1596447045575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilezWJYKf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596447059507	Marionette	INFO	Listening on port 53902
+1596447059912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596447092110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596447519095	Marionette	INFO	Stopped listening on port 53902
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile7dui11"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596447133707	Marionette	INFO	Listening on port 54153
+1596447135740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1596447518726	Marionette	INFO	Stopped listening on port 54153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596448377018	geckodriver	INFO	Listening on 127.0.0.1:54582
+1596448380058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofile1j0PSC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596448384530	Marionette	INFO	Listening on port 54590
+1596448384823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596448435098	Marionette	INFO	Stopped listening on port 54590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596448441002	geckodriver	INFO	Listening on 127.0.0.1:54793
+1596448444054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilestrzLh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596448448262	Marionette	INFO	Listening on port 54801
+1596448448367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596448480682	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596448567095	geckodriver	INFO	Listening on 127.0.0.1:55028
+1596448570122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofiledcq6r1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596448574946	Marionette	INFO	Listening on port 55036
+1596448576570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596448592463	Marionette	INFO	Stopped listening on port 55036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596448597691	geckodriver	INFO	Listening on 127.0.0.1:55169
+1596448600734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileBQd1Kr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596448605009	Marionette	INFO	Listening on port 55177
+1596448605530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596448645046	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596448919117	Marionette	INFO	Stopped listening on port 55177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596449010173	geckodriver	INFO	Listening on 127.0.0.1:55441
+1596449013264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofile4JmbdF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596449017390	Marionette	INFO	Listening on port 55450
+1596449017489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596449101740	geckodriver	INFO	Listening on 127.0.0.1:55680
+1596449104771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileZZ31mS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596449109210	Marionette	INFO	Listening on port 55688
+1596449109508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596449141917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596449195281	geckodriver	INFO	Listening on 127.0.0.1:55864
+1596449198309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilePxXUYE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596449203298	Marionette	INFO	Listening on port 55873
+1596449203572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596449250747	Marionette	INFO	Stopped listening on port 55873
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596449254233	geckodriver	INFO	Listening on 127.0.0.1:56018
+1596449257266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofile8DlOi3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596449260886	Marionette	INFO	Listening on port 56029
+1596449260984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+1596449297876	Marionette	INFO	Stopped listening on port 56029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596449321800	geckodriver	INFO	Listening on 127.0.0.1:56228
+1596449324815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilejpJreU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596449328930	Marionette	INFO	Listening on port 56236
+1596449328943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596449366617	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1596449475756	geckodriver	INFO	Listening on 127.0.0.1:56470
+1596449478767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofilewwsat4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596449482684	Marionette	INFO	Listening on port 56478
+1596449482929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596449781102	geckodriver	INFO	Listening on 127.0.0.1:56941
+1596449784149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kaizo\\AppData\\Local\\Temp\\rust_mozprofileXeeqrn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596449793187	Marionette	INFO	Listening on port 56949
+1596449793646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596449794174	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript warning: https://www.photopea.com/code/pp.js, line 2129: unreachable code after return statement
+JavaScript warning: https://www.photopea.com/code/pp.js, line 9906: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1596449833509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
